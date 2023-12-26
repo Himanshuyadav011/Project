@@ -1,7 +1,10 @@
 body {
-  margin: 0;
+  width: fit-content;
+  min-height: fit-content;
   padding: 0;
+  margin: 0;
   background-color: #ffcd9e;
+overflow-x:auto;
 }
 
 .container {
@@ -93,11 +96,11 @@ color: #888888;
 
 .footer{
 display: flex;
-    width: 127%;
-    height: 200%;
+    width: 100vw;
+    height: fit-content;
     background: black;
     margin-top: 5%;
-    justify-content: center;
+    justify-content: space-around;
     text-align: left;
 
 }
@@ -106,10 +109,10 @@ display: flex;
     font-family: "Inter", sans-serif;
     font-size: 20px;
     color: white;
-    margin-right: 750px;
+    margin-right: 1200px;
     font-weight: 500;
-  margin-right: 40%;
-    line-height: 50px;
+  margin-right: 200px;
+    line-height: 38px;
 
 }
 .footerpara2{
@@ -118,8 +121,7 @@ display: flex;
     font-size: 20px;
     color: white;
     font-weight: 500;
-    margin-right: 170px;
-    line-height: 50px;
+    line-height: 38px;
     text-align: right;
 
 
