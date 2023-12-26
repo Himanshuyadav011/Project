@@ -1,4 +1,4 @@
-# Simple Website Sing up - HTML and CSS
+# Simple Website - HTML and CSS
 
 ## Overview
 
@@ -7,10 +7,9 @@ This is a basic website template created using HTML and CSS. It is designed to b
 ## Features
 
 - Clean and minimalistic design
-- Responsive layout for various screen sizes
 - Easy to customize and extend
 
-## Getting Started
+
 
 ### Prerequisites
 
@@ -20,8 +19,7 @@ This is a basic website template created using HTML and CSS. It is designed to b
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/simple-website.git](https://github.com/Himanshuyadav011/Project.git)
-cd simple-website(Sign up)
+git clone https://github.com/Himanshuyadav011/Project.git
 ```
 
 ### Open in Browser
@@ -32,7 +30,6 @@ cd simple-website(Sign up)
 ```
 
 - `index.html`: The main HTML file.
-- `styles/main.css`: The main CSS file for styling.
-- `styles/responsive.css`: Additional CSS for responsiveness.
-- `images/`: Directory for storing images used in the website.
+- `style.css`: The main CSS file for styling.
+
 
