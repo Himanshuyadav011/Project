@@ -13,7 +13,7 @@ overflow-x:auto;
   justify-content: justify;
   align-items: justify;
   background-color: #ffcd9e;
-  width: 1300px;
+  width: fit-content;
   font-size: 18px;
   height: 592px
   
@@ -96,10 +96,11 @@ color: #888888;
 
 .footer{
 display: flex;
-    width: 100vw;
+    width: 130vw;
     height: fit-content;
     background: black;
     margin-top: 5%;
+    padding-top: 2%;
     justify-content: space-around;
     text-align: left;
 
@@ -123,7 +124,7 @@ display: flex;
     font-weight: 500;
     line-height: 38px;
     text-align: right;
-
+    margin-right: 130px;
 
 }
 
